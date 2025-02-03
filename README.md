@@ -2,7 +2,7 @@
 
 An Android app built with Flutter to address a real problem by providing a free and accessible way for patients to receive dental treatment.
 
-<em> ### This app was developed as a university project for a course in the 4th year.</em>
+> **Developed as a university project in the 4th year Software Engineering course.**
 
 <img src="https://github.com/AntonDirani/Student-Dental-Care-App/blob/main/screen2.jpg?raw=true" width="600">
 
